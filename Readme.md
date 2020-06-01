@@ -10,6 +10,9 @@ the Project 2 code, pictures,video and Execute file.
 ## Instructor: Prof. Yanxi Liu
 ## Programming Language: C++
 
+## Visualization
+![GIF](https://github.com/HongZH2/Graphics_P2/blob/master/Project_2_Hong_Zhang.gif)
+
 ## Description
 (1) Interaction
 Due to the final submission, I have already achieve all the basic  required functions to make an aircraft to move along the track and change the camer view by interacting with Keyboard Inputs. When It starts, the camera is bounded to the up-backward some certain point of the aircraft model. And it will follow the movement of aircraft. The aircraft will move along the track endlessly.
