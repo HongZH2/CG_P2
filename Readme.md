@@ -7,7 +7,6 @@ the Project 2 code, pictures,video and Execute file.
 ## Email: hmz5180@psu.edu
 ## Date: 10/21/2019
 ## Course Information: Computer Graphic
-## Instructor: Prof. Yanxi Liu
 ## Programming Language: C++
 
 ## Visualization
